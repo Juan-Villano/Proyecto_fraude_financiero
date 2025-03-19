@@ -1,5 +1,5 @@
 # Proyecto_fraude_financiero
-E# 🛡️ Detección de Fraude en Transacciones Financieras  
+# 🛡️ Detección de Fraude en Transacciones Financieras  
 
 Este proyecto implementa modelos de Machine Learning para identificar transacciones fraudulentas en un conjunto de datos sintético. Utiliza técnicas de preprocesamiento, transformación de datos y modelos supervisados como **Regresión Logística, Árbol de Decisión y Bosque Aleatorio** para mejorar la precisión en la detección de fraudes.  
 
